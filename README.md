@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics & Data Base 
 - 🌱 I’m currently learning Data Science in Coursera
 - 💞️ I’m looking to collaborate on Google Cloud Management
-- 📫 www.linkedin.com/in/salauatdemeut
+- 📫 www.linkedin.com/in/sdemeut
 
 <!---
 salauatdemeut/salauatdemeut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
